@@ -56,10 +56,6 @@ Amazon_Sales_Dashboard/
 ├── Dashboard_Screenshot.png
 └── README.md
 ```
-
-## Dashboard Preview
-(Add your dashboard screenshot here)
-
 ## Conclusion
 This dashboard helps stakeholders monitor sales performance, identify profitable categories, and make data-driven business decisions using interactive visualizations.
 
