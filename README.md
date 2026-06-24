@@ -67,5 +67,5 @@ This dashboard helps stakeholders monitor sales performance, identify profitable
 
 ### Author
 **Devendra Reddy**
-- LinkedIn: www.linkedin.com/in/devendra-reddy-kandula
-- GitHub: github.com/DEVENDRA9390
+- LinkedIn: www.linkedin.com/in/kdevendrareddy
+- GitHub: GitHub: github.com/DEVENDRA9390
